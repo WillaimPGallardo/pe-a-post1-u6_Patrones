@@ -1,4 +1,4 @@
-package com.universidad.antipatrones.model;
+package com.universidad.antipatrones.refactoring_lab;
 
 public class Libro {
     private final String id;
